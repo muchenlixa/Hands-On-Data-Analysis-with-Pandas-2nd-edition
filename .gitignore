@@ -5,3 +5,4 @@ __pycache__/
 *.png
 *.dot
 build/
+.DS_store
